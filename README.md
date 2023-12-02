@@ -8,6 +8,9 @@
 
 [![iikkkkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkangtae&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kimkangtae/github-readme-stats)
 
+![Codewars](https://github.r2v.ch/codewars?user=kimkangtae&stroke=COLOR)
+
+
 <br>
 
 ## 💻 DEV's log 💻
