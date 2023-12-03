@@ -4,9 +4,9 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=86E9DC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+iikkkkyy's+GitHub!👋)](https://git.io/typing-svg)
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkangtae&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/kimkangtae)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkangtae&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/iikkkkyy)
 
-[![iikkkkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkangtae&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kimkangtae/github-readme-stats)
+[![iikkkkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iikkkkyy&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/iikkkkyy/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=kimkangtae&stroke=white)
 
@@ -15,7 +15,7 @@
 
 ## 💻 DEV's log 💻
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ttt9977)](https://velog.io/@iikkkkyy) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=iikkkkyy)](https://velog.io/@ttt9977) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ttt9977)](https://github.com/eungyeole/velog-readme-stats)
 
