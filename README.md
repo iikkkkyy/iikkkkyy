@@ -6,11 +6,11 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkangtae&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/iikkkkyy)
 
-[![iikkkkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iikkkkyy&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/iikkkkyy/github-readme-stats)
+[![iikkkkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iikkkkyy&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true)](https://github.com/iikkkkyy/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=kimkangtae&stroke=white)
 
-
+<a href="https://github.com/iikkkkyy"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iikkkkyy&layout=compact&theme=nord&hide_border=true" /></a> 
 <br>
 
 ## 💻 DEV's log 💻
