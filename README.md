@@ -34,6 +34,11 @@
   </div></br>
   </div>
 
+   ## 🪪 Certificate 🪪
+  Linux Master Level 2
+  
+  SQLD
+
   ## 📞 Contact 📞
   <div style="display:flex; flex-direction:row;">
       <a href="https://www.instagram.com/iikkkkyy/">
