@@ -34,6 +34,8 @@
   </div>
 
    ## 🪪 Certificate 🪪
+  Engineer Information Processing
+  
   Linux Master Level 2
   
   SQLD
